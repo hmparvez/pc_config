@@ -1,0 +1,62 @@
+body {
+  box-sizing: border-box;
+  background-color: #eff0f5; }
+
+#productPage {
+  background-color: #ffffff;
+  padding-bottom: 50px; }
+  #productPage .col-md-5 {
+    margin-top: 20px; }
+    #productPage .col-md-5 .starActive {
+      color: #f57224; }
+    #productPage .col-md-5 .star {
+      margin-bottom: 10px;
+      margin-top: 10px; }
+      #productPage .col-md-5 .star .rating {
+        margin-left: 15px; }
+    #productPage .col-md-5 .currency {
+      color: #f57224;
+      font-size: 30px;
+      font-weight: bold; }
+    #productPage .col-md-5 .availColor img {
+      height: auto;
+      width: auto;
+      margin-left: 5px; }
+    #productPage .col-md-5 .psize button {
+      margin: 10px; }
+    #productPage .col-md-5 .pquantity button {
+      margin: 10px; }
+    #productPage .col-md-5 .buy .btn-primary {
+      background-color: #4081d1;
+      border-radius: 0;
+      width: 45%;
+      margin-right: 5%; }
+    #productPage .col-md-5 .buy .btn-secondary {
+      background-color: #f57224;
+      border-radius: 0;
+      width: 45%;
+      color: #ffffff; }
+  #productPage .col-md-3 {
+    margin-top: 40px;
+    background-color: #eff0f5;
+    padding-bottom: 50px; }
+    #productPage .col-md-3 .deliveryM {
+      margin-top: 10px; }
+      #productPage .col-md-3 .deliveryM .addressD {
+        display: inline-block;
+        margin-left: 20px; }
+        #productPage .col-md-3 .deliveryM .addressD p {
+          padding: 0;
+          margin: 0; }
+      #productPage .col-md-3 .deliveryM button {
+        background-color: #f57224;
+        color: #ffffff;
+        border: none;
+        margin-left: 40px; }
+  #productPage .homeDelivery .deliveryPolicy {
+    display: inline-block;
+    margin-left: 20px; }
+  #productPage .cash {
+    margin-left: 20px; }
+
+/*# sourceMappingURL=styleSingleProduct.css.map */
